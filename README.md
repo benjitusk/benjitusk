@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AvrahamMeyers&theme=dark-smoky)](https://git.io/streak-stats)
 
 <!--
 **benjitusk/benjitusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
