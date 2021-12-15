@@ -11,7 +11,7 @@ I am planning on going to the Jerusalem College of Technology, starting in Octob
 
 ## Are you active on GitHub?
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benjitusk&theme=dark-smoky)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benjitusk&theme=dark-smoky)
 
 Yeah, a little bit.
 
