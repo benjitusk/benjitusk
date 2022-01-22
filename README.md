@@ -16,7 +16,7 @@ I am planning on going to the Jerusalem College of Technology, starting in Octob
 Yeah, a little bit.
 
 ## What's your contact information so I can reach out to you?
-You can reach me by sending me an email at benjitusk1@gmail[.]com
+You can reach me by sending me an email at benjitusk1@gmail.com
 <!--
 **benjitusk/benjitusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
