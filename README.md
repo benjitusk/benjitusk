@@ -9,7 +9,7 @@ I'm keeping myself busy with a handful of projects at the moment, such as
 
 I like to stay active when I'm outside, rollerblading or taking walks, and I also like to stay active when I'm inside, on GitHub:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benjitusk&theme=dark-smoky)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=benjitusk&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **benjitusk/benjitusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
