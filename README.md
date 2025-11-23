@@ -1,5 +1,5 @@
 # Hello! 👋
-My name is Benji Tusk. I'm in my third year at the Jerusalem College of Technology, studying Computer Science. I'm also a founder and the lead frontend developer for ScheduLearn, a schedule solver for schools.
+My name is Benji Tusk. I'm in my final year at the Jerusalem College of Technology, studying Computer Science. I'm also a founder and the lead frontend developer for [ScheduLearn](https://schedulearn.com/?utm_source=benji_github), a schedule solver for schools.
 
 I'm keeping myself busy with a handful of projects at the moment, such as
 - Frontend Development for ScheduLearn
