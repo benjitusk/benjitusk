@@ -1,29 +1,14 @@
-# Hello! 👋
-My name is Benji Tusk. I'm in my final year at the Jerusalem College of Technology, studying Computer Science. I'm also a founder and the lead frontend developer for [ScheduLearn](https://schedulearn.com/?utm_source=benji_github), a schedule solver for schools.
+# Hi, I'm Benji 👋
 
-I'm keeping myself busy with a handful of projects at the moment, such as
-- Frontend Development for ScheduLearn
-- Publishing and updating all of my CS notes to my website
-- Finishing an Android app for a school I previously attended
-- Personal development (way harder than frontend dev, tbh)
+Fullstack engineer in Jerusalem. I cofounded [ScheduLearn](https://schedulearn.com/?utm_source=benji_github), a scheduling tool for schools, where I build and run the GCP/Firebase backend, the CI/CD pipeline, and the React/TypeScript frontend.
 
-I like to stay active when I'm outside, rollerblading or taking walks, and I also like to stay active when I'm inside, on GitHub:
+BSc in Mathematics and Computer Science from the Jerusalem College of Technology.
+
+What I'm working on:
+- **ScheduLearn** — cloud infrastructure, backend, and frontend
+- **[My engineering notebook](https://notebook.benjitusk.com)** — write-ups of side projects, currently reverse-engineering a Windows Hello fingerprint reader to get it working on Linux
+- Assorted smaller things in TypeScript, Python, Swift, and Dart
+
+Outside of that, I'm usually rollerblading or out for a walk.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=benjitusk&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)
-
-<!--
-**benjitusk/benjitusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benjitusk&theme=dark-smoky)
-
--->
