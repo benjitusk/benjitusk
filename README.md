@@ -9,6 +9,6 @@ What I'm working on:
 - **[My engineering notebook](https://notebook.benjitusk.com)** — write-ups of side projects, currently reverse-engineering a Windows Hello fingerprint reader to get it working on Linux
 - Assorted smaller things in TypeScript, Python, Swift, and Dart
 
-Outside of that, I'm usually rollerblading or out for a walk.
+Outside of that, I'm usually rollerblading, reading, or out for a walk.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=benjitusk&theme=dark-smoky&mode=weekly)](https://git.io/streak-stats)
