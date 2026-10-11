@@ -1,6 +1,6 @@
 # Hi, I'm Benji 👋
 
-Fullstack engineer in Jerusalem. I cofounded [ScheduLearn](https://schedulearn.com/?utm_source=benji_github), a scheduling tool for schools, where I build and run the GCP/Firebase backend, the CI/CD pipeline, and the React/TypeScript frontend.
+Fullstack engineer on the US East Coast. I cofounded [ScheduLearn](https://schedulearn.com/?utm_source=benji_github), a scheduling tool for schools, where I build and run the GCP/Firebase backend, the CI/CD pipeline, and the React/TypeScript frontend.
 
 BSc in Mathematics and Computer Science from the Jerusalem College of Technology.
 
